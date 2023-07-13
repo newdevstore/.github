@@ -18,5 +18,5 @@
   </div>
 
   [![Typing
-  SVG](https://readme-typing-svg.herokuapp.com?color=4700F7&width=435&lines=Sua+experi%C3%AAncia+com+o+Discord+agora+%C3%A9+ainda+melhor.)](https://git.io/typing-svg)
+  SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Improving+your+Discord+experience.)](https://git.io/typing-svg)
 </div>

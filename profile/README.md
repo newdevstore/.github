@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.gg/mskT7HRHNy" target="_blank"
-    ><img src="https://i.imgur.com/6nC6zjV.png" alt="Logo" height="150"
+    ><img src="https://i.imgur.com/Sfhxg5L.png" alt="Logo" height="150"
   /></a>
 
 **A simple discord store where you can buy your bot.** 

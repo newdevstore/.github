@@ -11,7 +11,7 @@
   <div>
     <h3> Dev's</h3>
 
-<img alt="https://github.com/atakwn" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/80841842?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" alt="https://github.com/atakwn" width="15%" /> <img alt="https://github.com/Swazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" alt="https://github.com/Swazuto" width="15%" />
+<img alt="https://github.com/atakwn" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" alt="https://github.com/atakwn" width="15%" /> <img alt="https://github.com/Swazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" alt="https://github.com/Swazuto" width="15%" />
 | **[atakwn](https://github.com/atakwn)** |   &  | **[Sazuto](https://github.com/Swazuto)** |
 | --------------------------------------------------- | ----- | ---------------------------------------- |
 

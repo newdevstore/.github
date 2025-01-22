@@ -26,17 +26,17 @@
     <h3>Team</h3>
     <div style="text-align: center;">
       <img 
-        src="https://i.imgur.com/hsznhvn.png" 
+        src="https://i.imgur.com/Di9exWU.png" 
         alt="palhacim" 
         style="border-radius: 50%; width: 128px; height: 128px;" 
       />
       <img 
-        src="https://i.imgur.com/TQAWWCX.png" 
+        src="https://i.imgur.com/GxX4fHU.png" 
         alt="alexandretop64" 
         style="border-radius: 50%; width: 128px; height: 128px;" 
       />
       <img 
-        src="https://i.imgur.com/r93QICP.png" 
+        src="https://i.imgur.com/9afYy9D.png" 
         alt="dani" 
         style="border-radius: 50%; width: 128px; height: 128px;" 
       />

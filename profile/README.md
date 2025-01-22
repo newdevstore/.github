@@ -18,8 +18,8 @@
       <img alt="Ness" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="96px" />
     </div>
     <div style="margin-top: 15px; font-size: 1.25em;">
-      <strong><a href="https://github.com/ness-io" style="margin-right: 80px;">Ness</a></strong>
-      <strong><a href="https://github.com/Swazuto">Sazuto</a></strong>
+      <strong><a href="https://github.com/Swazuto" style="margin-right: 80px;">Sazuto</a></strong>
+      <strong><a href="https://github.com/ness-io">Ness</a></strong>
     </div>
   </div>
 
@@ -27,7 +27,7 @@
 
   <div>
     <h3>Team</h3>
-    <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
       <div style="text-align: center;">
         <img 
           src="https://i.imgur.com/Di9exWU.png" 

@@ -27,14 +27,14 @@
 
   <div>
     <h3>Team</h3>
-    <div style="display: flex; justify-content: center; gap: 60px;">
+    <div style="display: flex; justify-content: center; gap: 40px;">
       <div style="text-align: center;">
         <img 
           src="https://i.imgur.com/Di9exWU.png" 
           alt="palhacim" 
           style="border-radius: 50%; width: 96px; height: 96px;" 
         />
-        <div style="margin-top: 5px;"><strong><a href="https://discord.com/channels/@me/1304245739215519765">Palhacim</a></strong></div>
+        <div style="margin-top: 10px;"><strong><a href="https://discord.com/channels/@me/1304245739215519765">Palhacim</a></strong></div>
       </div>
       <div style="text-align: center;">
         <img 
@@ -42,7 +42,7 @@
           alt="alexandretop64" 
           style="border-radius: 50%; width: 96px; height: 96px;" 
         />
-        <div style="margin-top: 5px;"><strong><a href="https://discord.com/channels/@me/438817358249721867">AlexandreTop64</a></strong></div>
+        <div style="margin-top: 10px;"><strong><a href="https://discord.com/channels/@me/438817358249721867">AlexandreTop64</a></strong></div>
       </div>
       <div style="text-align: center;">
         <img 
@@ -50,7 +50,7 @@
           alt="dani" 
           style="border-radius: 50%; width: 96px; height: 96px;" 
         />
-        <div style="margin-top: 5px;"><strong><a href="https://discord.com/channels/@me/1176666959719452783">Dani</a></strong></div>
+        <div style="margin-top: 10px;"><strong><a href="https://discord.com/channels/@me/1176666959719452783">Dani</a></strong></div>
       </div>
     </div>
   </div>

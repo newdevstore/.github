@@ -45,7 +45,7 @@
       />
     </div>
     <div style="margin-top: 15px; font-size: 1.25em;">
-      <strong><a href="https://discord.com/channels/@me/1304245739215519765" style="margin-right: 60px;">Palhacim</a></strong>
+      <strong><a href="https://discord.com/channels/@me/1304245739215519765" style="margin-right: 90px;">Palhacim</a></strong>
       <strong><a href="https://discord.com/channels/@me/438817358249721867" style="margin-right: 60px;">AlexandreTop64</a></strong>
       <strong><a href="https://discord.com/channels/@me/1176666959719452783">Dani</a></strong>
     </div>

@@ -44,9 +44,9 @@
         style="border-radius: 50%; width: 96px; height: 96px;" 
       />
     </div>
-    <div style="display: flex; justify-content: center; gap: 150px; margin-top: 15px; font-size: 1.25em;">
-      <strong><a href="https://discord.com/channels/@me/1304245739215519765">Palhacim</a></strong>
-      <strong><a href="https://discord.com/channels/@me/438817358249721867">AlexandreTop64</a></strong>
+    <div style="margin-top: 15px; font-size: 1.25em;">
+      <strong><a href="https://discord.com/channels/@me/1304245739215519765" style="margin-right: 60px;">Palhacim</a></strong>
+      <strong><a href="https://discord.com/channels/@me/438817358249721867" style="margin-right: 60px;">AlexandreTop64</a></strong>
       <strong><a href="https://discord.com/channels/@me/1176666959719452783">Dani</a></strong>
     </div>
   </div>

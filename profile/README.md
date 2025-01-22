@@ -27,7 +27,7 @@
 
   <div>
     <h3>Team</h3>
-    <div style="display: flex; justify-content: center; gap: 60px; flex-direction: row;">
+    <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
       <div style="text-align: center;">
         <img 
           src="https://i.imgur.com/Di9exWU.png" 

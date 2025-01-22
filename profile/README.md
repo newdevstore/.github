@@ -11,44 +11,6 @@
 
   <div>
     <h3>Dev's</h3>
-    <div style="text-align: center;">
-      <img alt="https://github.com/atakwn" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
-      <img alt="https://github.com/Swazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
-    </div>
-    <p>
-      | **[Ness](https://github.com/ness-io)** | & | **[Sazuto](https://github.com/Swazuto)** |
-    </p>
-  </div>
-
-  <hr />
-
-  <div>
-    <h3>Team</h3>
-    <div style="text-align: center;">
-      
-Para ajustar o layout e atender às suas necessidades:
-
-Centralizar os avatares de "Team" e os links levando ao perfil no Discord.
-Preservar o comportamento atual para os "Dev's".
-Segue o código atualizado:
-
-html
-Copiar
-Editar
-<div align="center">
-  <a href="https://discord.gg/mskT7HRHNy" target="_blank">
-    <img src="https://i.imgur.com/Sfhxg5L.png" alt="Logo" height="150" />
-  </a>
-
-  **A simple discord store where you can buy your bot.**
-
-  [![Support Server](https://discord.com/api/guilds/758308791837786232/embed.png?style=banner2)](https://discord.gg/mskT7HRHNy)
-
-  <hr />
-
-  <!-- Seção dos Devs -->
-  <div>
-    <h3>Dev's</h3>
     <img alt="https://github.com/atakwn" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
     <img alt="https://github.com/Swazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
     <p>

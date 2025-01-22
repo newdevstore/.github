@@ -14,7 +14,7 @@
     <img alt="https://github.com/atakwn" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
     <img alt="https://github.com/Swazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="15%" />
     <p>
-      | **[Ness](https://github.com/ness-io)** | & | **[Sazuto](https://github.com/Swazuto)** |
+      | **[!Ness](https://github.com/ness-io)** | & | **[!Sazuto](https://github.com/Swazuto)** |
     </p>
   </div>
 

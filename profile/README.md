@@ -13,11 +13,11 @@
 
   <div>
     <h3>Dev's</h3>
-    <div style="display: flex; justify-content: center; gap: 40px;">
-      <img alt="Ness" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="64px" />
-      <img alt="Sazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="64px" />
+    <div style="display: flex; justify-content: center; gap: 60px;">
+      <img alt="Ness" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/187334479?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="96px" />
+      <img alt="Sazuto" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97265430?v=4&h=128&w=128&fit=cover&mask=circle&maxage=1d" width="96px" />
     </div>
-    <div style="display: flex; justify-content: center; gap: 40px; margin-top: 10px;">
+    <div style="display: flex; justify-content: center; gap: 60px; margin-top: 15px; font-size: 1.25em;">
       <strong><a href="https://github.com/ness-io">Ness</a></strong>
       <strong><a href="https://github.com/Swazuto">Sazuto</a></strong>
     </div>
@@ -27,24 +27,24 @@
 
   <div>
     <h3>Team</h3>
-    <div style="display: flex; justify-content: center; gap: 40px;">
+    <div style="display: flex; justify-content: center; gap: 60px;">
       <img 
         src="https://i.imgur.com/Di9exWU.png" 
         alt="palhacim" 
-        style="border-radius: 50%; width: 64px; height: 64px;" 
+        style="border-radius: 50%; width: 96px; height: 96px;" 
       />
       <img 
         src="https://i.imgur.com/GxX4fHU.png" 
         alt="alexandretop64" 
-        style="border-radius: 50%; width: 64px; height: 64px;" 
+        style="border-radius: 50%; width: 96px; height: 96px;" 
       />
       <img 
         src="https://i.imgur.com/9afYy9D.png" 
         alt="dani" 
-        style="border-radius: 50%; width: 64px; height: 64px;" 
+        style="border-radius: 50%; width: 96px; height: 96px;" 
       />
     </div>
-    <div style="display: flex; justify-content: center; gap: 40px; margin-top: 10px;">
+    <div style="display: flex; justify-content: center; gap: 60px; margin-top: 15px; font-size: 1.25em;">
       <strong><a href="https://discord.com/channels/@me/1304245739215519765">Palhacim</a></strong>
       <strong><a href="https://discord.com/channels/@me/438817358249721867">AlexandreTop64</a></strong>
       <strong><a href="https://discord.com/channels/@me/1176666959719452783">Dani</a></strong>
